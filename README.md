@@ -1,1 +1,3 @@
-"Edwin Estaniel" 
+Edwin Estaniel
+estaniee@oregonstate.edu
+
